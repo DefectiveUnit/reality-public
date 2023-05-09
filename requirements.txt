@@ -3,3 +3,4 @@ langchain
 unstructured
 faiss-cpu
 openai
+pdf2image
