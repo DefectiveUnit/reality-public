@@ -4,3 +4,4 @@ unstructured
 faiss-cpu
 openai
 pdf2image
+pytesseract
