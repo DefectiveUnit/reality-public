@@ -1,5 +1,5 @@
 # Local imports
-import creds
+#import creds
 from src.load_transcript import load_documents, get_embeddings, load_embeddings
 
 # Package imports

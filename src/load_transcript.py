@@ -5,7 +5,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings #embeddings
 from langchain import PromptTemplate, FewShotPromptTemplate, LLMChain
 from langchain.chat_models import ChatOpenAI
 from typing import List
-import creds
+#import creds
 import pickle
 import datetime
 import os
